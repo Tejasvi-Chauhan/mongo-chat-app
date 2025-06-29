@@ -1,0 +1,22 @@
+.chat{
+   background-color:rgb(178, 242, 242);
+   border-radius: 16px;
+    display: grid;
+  /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
+  /* gap: 0px; */
+  padding: 20px;
+  margin:20px;
+
+}
+.msg{
+   display: inline-block;
+     margin: 10px auto 10px 40px;
+    padding: 20px;
+    background-color: rgb(46, 191, 142);
+    color: aliceblue;
+     border-radius: 50px;
+     max-width: fit-content
+    
+    
+   
+}
